@@ -1,0 +1,30 @@
+{
+  "case_id": "SYN-HIND-001",
+  "client_name": "Nova Digital Solutions",
+  "project_title": "AI Meeting Summary Assistant",
+  "project_description": "Develop an AI-powered application that summarizes meeting transcripts and extracts key decisions and action items.",
+  "objectives": [
+    "Generate concise summaries of meeting transcripts.",
+    "Identify key decisions made during meetings.",
+    "Extract action items and assigned responsibilities."
+  ],
+  "requirements": [
+    "Accept meeting transcripts in text format.",
+    "Generate summaries of meeting content.",
+    "Identify and list key decisions.",
+    "Extract action items and responsible persons."
+  ],
+  "constraints": [
+    "Use synthetic meeting transcripts only.",
+    "Do not invent decisions or action items.",
+    "The prototype supports text input only."
+  ],
+  "deliverables": [
+    "Meeting summary application prototype.",
+    "Transcript processing module.",
+    "Decision and action item extraction module.",
+    "Validation report."
+  ],
+  "timeline": "5 weeks",
+  "budget": "$6,000"
+}
